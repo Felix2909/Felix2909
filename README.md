@@ -3,7 +3,7 @@
 ## Técnico em TI em Formação | Dev & Infraestrutura
 
 ### 👤 Sobre mim
-Sou estudante e entusiasta da tecnologia, atualmente cursando o **Curso Técnico em TI**, com conclusão prevista para **2027**. Tenho uma base sólida que une o desenvolvimento de software básico à infraestrutura de redes e suporte de hardware, além de criar peças visuais utilizando ferramentas de design moderno. Procuro evoluir constantemente minhas habilidades práticas para solucionar problemas do dia a dia corporativo e de desenvolvimento.
+Sou estudante e entusiasta da tecnologia, atualmente cursando o **Curso Técnico em TI na EEEP JOAQUIM ANTONIO ALBANO**, com conclusão prevista para **2027**. Tenho uma base sólida que une o desenvolvimento de software básico à infraestrutura de redes e suporte de hardware, além de criar peças visuais utilizando ferramentas de design moderno. Procuro evoluir constantemente minhas habilidades práticas para solucionar problemas do dia a dia corporativo e de desenvolvimento.
 
 ---
 
