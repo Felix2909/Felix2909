@@ -27,8 +27,11 @@ Sou estudante e entusiasta da tecnologia, atualmente cursando o **Curso Técnico
 Abaixo estão as ferramentas e tecnologias com as quais tenho familiaridade:
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Python" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="40" height="40" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="40" height="40" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="40" height="40" alt="HTML5" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="40" height="40" alt="CSS3" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="40" height="40" alt="MySQL" />
 </p>
 
