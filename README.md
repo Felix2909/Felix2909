@@ -1,10 +1,5 @@
 # Olá, eu sou o Guilherme Félix! 👋
 
-<!-- BADGES NATIVAS SEM PARÂMETROS COMPLEXOS (EVITA ERRO DE PROXY) -->
-![INFRA](https://shields.io)
-![DEV](https://shields.io)
-![DESIGN](https://shields.io)
-
 ## Técnico em TI em Formação | Dev & Infraestrutura
 
 ### 👤 Sobre mim
@@ -29,10 +24,11 @@ Sou estudante e entusiasta da tecnologia, atualmente cursando o **Curso Técnico
 
 ### 🛠️ Toolbox (Minhas Ferramentas)
 
-| Categoria | Tecnologias & Ferramentas |
-| :--- | :--- |
-| **Hardware & Redes** | ![Hardware](https://shields.io🔧-gray?style=for-the-badge) ![Redes](https://shields.io🌐-blue?style=for-the-badge) |
-| **Linguagens de Programação** | ![Python](https://shields.io) ![JavaScript](https://shields.io) ![TypeScript](https://shields.io) |
-| **Frontend & Dados** | ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![SQL](https://shields.io) |
-| **Design** | ![Canva](https://shields.io) |
+Abaixo estão as ferramentas e tecnologias com as quais tenho familiaridade:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
+</p>
 
