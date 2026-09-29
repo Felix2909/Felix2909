@@ -1,6 +1,6 @@
 # Olá, eu sou o Guilherme Félix! 👋
 
-<!-- BADGES DO TOPO -->
+<!-- BADGES DO TOPO CORRIGIDAS -->
 ![TI](https://shields.io) ![Dev](https://shields.io) ![Design](https://shields.io)
 
 ## Técnico em TI em Formação | Dev & Infraestrutura
