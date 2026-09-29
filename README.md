@@ -1,6 +1,6 @@
 # Olá, eu sou o Guilherme Félix! 👋
 
-<!-- BADGES DO TOPO CORRIGIDAS -->
+<!-- BADGES DO TOPO (FORMATO ESTÁTICO COMPATÍVEL COM O PROXY DO GITHUB) -->
 ![TI](https://shields.io) ![Dev](https://shields.io) ![Design](https://shields.io)
 
 ## Técnico em TI em Formação | Dev & Infraestrutura
@@ -29,7 +29,7 @@ Sou estudante e entusiasta da tecnologia, atualmente cursando o **Curso Técnico
 
 | Categoria | Tecnologias & Ferramentas |
 | :--- | :--- |
-| **Hardware & Redes** | ![Hardware](https://shields.io🔧-gray?style=for-the-badge) ![Redes](https://shields.io🌐-blue?style=for-the-badge) |
-| **Linguagens de Programação** | ![Python](https://shields.io) ![JavaScript](https://shields.io) ![TypeScript](https://shields.io) |
-| **Frontend & Dados** | ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![SQL](https://shields.io) |
+| **Hardware & Redes** | ![Hardware](https://shields.io) ![Redes](https://shields.io) |
+| **Linguagens de Programação** | ![Python](https://shields.io) ![JavaScript](https://shields.io) |
+| **Frontend & Dados** | ![HTML5](https://shields.io) ![SQL](https://shields.io) |
 | **Design** | ![Canva](https://shields.io) |
